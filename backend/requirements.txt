@@ -1,0 +1,13 @@
+Django==5.0.4
+asgiref==3.8.1
+django-cors-headers==4.3.1
+django-multiupload==0.6.1
+djangorestframework==3.15.1
+pillow==10.3.0
+sqlparse==0.5.0
+tzdata
+djangorestframework-simplejwt
+PyJWT
+pytz
+psycopg2-binary
+python-dotenv
